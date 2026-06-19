@@ -1,0 +1,11 @@
+#status-message {
+  font-family: monospace;
+  font-size: 1.2rem;
+  color: #555;
+  padding: 20px;
+}
+
+.success {
+  color: #28a745;
+  font-weight: bold;
+}

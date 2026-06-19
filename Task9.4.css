@@ -1,0 +1,10 @@
+#productDisplay {
+  margin-top: 20px;
+  padding: 10px;
+  border-top: 1px solid #ccc;
+}
+
+select {
+  padding: 5px;
+  border-radius: 4px;
+}
